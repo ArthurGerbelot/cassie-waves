@@ -1,4 +1,13 @@
-:root {
+/* html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  background: var(#000);
+}
+
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -10,11 +19,6 @@
   }
 }
 
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
 
 body {
   color: var(--foreground);
@@ -40,3 +44,4 @@ a {
     color-scheme: dark;
   }
 }
+*/
